@@ -2280,11 +2280,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\G.force_sy\\Desktop\\Projects\\TajerTest\\TajerTest.csproj",
+      "projectUniqueName": "C:\\Users\\G.force_sy\\Desktop\\TajerTest\\TajerTest.csproj",
       "projectName": "TajerTest",
-      "projectPath": "C:\\Users\\G.force_sy\\Desktop\\Projects\\TajerTest\\TajerTest.csproj",
+      "projectPath": "C:\\Users\\G.force_sy\\Desktop\\TajerTest\\TajerTest.csproj",
       "packagesPath": "C:\\Users\\G.force_sy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\G.force_sy\\Desktop\\Projects\\TajerTest\\obj\\",
+      "outputPath": "C:\\Users\\G.force_sy\\Desktop\\TajerTest\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\G.force_sy\\AppData\\Roaming\\NuGet\\NuGet.Config",

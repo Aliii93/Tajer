@@ -54,7 +54,7 @@ namespace TajerTest.Controllers
         // valedation on name and should be unique add price Parameter :Done
         //Todo: AutoMapper 1 item => input 2 item => output & Repository
         
-        //[AuthFilter.AuthFilter((int)Permissions.Create)]
+        [AuthFilter.AuthFilter((int)Permissions.Create)]
         [HttpPost]
         [Route("[action]")]
         public async Task<IActionResult> AddItem([FromBody] ItemInput itemInput)

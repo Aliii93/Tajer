@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Z78PVWfMs6ujnj+Vh6NdqrErGW1lMGJl4buUg1yuZ6sECLo6opnCCy4D/X8or0Zi1IYDeoEI6fsp3EBYwyo4Fw==",
+  "dgSpecHash": "urdN+xlIbcXvU9q7zxswyFciLVThFE4kHLvO+X/Bwrn4ya682jJCpxmpLU7L8wSxtCnnjtrUWih1qPD0RC+lyg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\G.force_sy\\Desktop\\Projects\\TajerTest\\TajerTest.csproj",
+  "projectFilePath": "C:\\Users\\G.force_sy\\Desktop\\TajerTest\\TajerTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\G.force_sy\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\G.force_sy\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
